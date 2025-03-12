@@ -14,11 +14,12 @@ Ce projet, réalisé avec Canva et axé sur les réseaux sociaux, le SEO et le S
 - Proposer des recommandations pour améliorer l'expérience utilisateur du site web.
 - Le projet met en avant des actions concrètes pour développer la visibilité en ligne, accroître l'engagement communautaire et promouvoir le savoir-faire artisanal de Voisin.
 
+*⚙️ Comment utiliser ce projet ?*
 
+- Téléchargez le fichier sur github.
+- Parcourez les différentes slides pour explorer les données, comparer les indicateurs, et suivre le cheminement narratif du projet.
 
-
-
-  *📄 Licence*
+ *📄 Licence*
 
 Ce projet est protégé par la licence CC BY-ND 4.0.
 
