@@ -13,3 +13,15 @@ Ce projet, réalisé avec Canva et axé sur les réseaux sociaux, le SEO et le S
 - Renforcer l'identité lyonnaise et artisanale de la marque.
 - Proposer des recommandations pour améliorer l'expérience utilisateur du site web.
 - Le projet met en avant des actions concrètes pour développer la visibilité en ligne, accroître l'engagement communautaire et promouvoir le savoir-faire artisanal de Voisin.
+
+
+
+
+
+  *📄 Licence*
+
+Ce projet est protégé par la licence CC BY-ND 4.0.
+
+- Vous êtes autorisé à consulter, télécharger et partager ce projet à condition de créditer l'auteur original.
+- Vous **n'êtes pas autorisé** à modifier, transformer ou adapter le contenu.
+- Toute utilisation doit mentionner l'auteur : Nadir BOUDJERIDA.
