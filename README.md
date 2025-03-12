@@ -4,6 +4,8 @@
 
 Ce projet, réalisé avec Canva et axé sur les réseaux sociaux, le SEO et le SEA, vise à renforcer la présence digitale de la marque lyonnaise Voisin.
 
+![Page de Garde 3](https://github.com/user-attachments/assets/e0f5b085-c89b-47b9-a44c-879f007477f8)
+
 🎯 Objectifs
 
 - Optimiser le référencement naturel (SEO) et payant (SEA).
