@@ -1,4 +1,4 @@
-# Marketing-Management-Integrated-Communication
+# Marketing Management : Integrated Communication
 
 🍫 Stratégie Digitale & Marketing pour Chocolatier Voisin
 
