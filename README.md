@@ -1,12 +1,12 @@
 # Marketing Management : Integrated Communication
 
-🍫 Stratégie Digitale & Marketing pour Chocolatier Voisin
+***🍫 Stratégie Digitale & Marketing pour Chocolatier Voisin***
 
 Ce projet, réalisé avec Canva et axé sur les réseaux sociaux, le SEO et le SEA, vise à renforcer la présence digitale de la marque lyonnaise Voisin.
 
 ![Page de Garde 3](https://github.com/user-attachments/assets/e0f5b085-c89b-47b9-a44c-879f007477f8)
 
-🎯 Objectifs
+***🎯 Objectifs***
 
 - Optimiser le référencement naturel (SEO) et payant (SEA).
 - Améliorer la stratégie éditoriale sur Instagram, Facebook, LinkedIn et TikTok.
@@ -14,7 +14,7 @@ Ce projet, réalisé avec Canva et axé sur les réseaux sociaux, le SEO et le S
 - Proposer des recommandations pour améliorer l'expérience utilisateur du site web.
 - Le projet met en avant des actions concrètes pour développer la visibilité en ligne, accroître l'engagement communautaire et promouvoir le savoir-faire artisanal de Voisin.
 
-*⚙️ Comment utiliser ce projet ?*
+***⚙️ Comment utiliser ce projet ?***
 
 - Téléchargez le fichier sur github.
 - Parcourez les différentes slides pour explorer les données, comparer les indicateurs, et suivre le cheminement narratif du projet.
