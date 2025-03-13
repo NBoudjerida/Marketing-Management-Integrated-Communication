@@ -18,3 +18,8 @@ Ce projet, réalisé avec Canva et axé sur les réseaux sociaux, le SEO et le S
 
 - Téléchargez le fichier sur github.
 - Parcourez les différentes slides pour explorer les données, comparer les indicateurs, et suivre le cheminement narratif du projet.
+
+***🛠️ Outils et technologies utilisés***
+
+- **Canva** : Pour la création des visuels et des supports de présentation.
+- **Réseaux sociaux** : Facebook, Instagram, X (Twitter), YouTube pour l'étude de la présence sur ces plateformes.
