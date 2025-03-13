@@ -18,11 +18,3 @@ Ce projet, réalisé avec Canva et axé sur les réseaux sociaux, le SEO et le S
 
 - Téléchargez le fichier sur github.
 - Parcourez les différentes slides pour explorer les données, comparer les indicateurs, et suivre le cheminement narratif du projet.
-
- *📄 Licence*
-
-Ce projet est protégé par la licence CC BY-ND 4.0.
-
-- Vous êtes autorisé à consulter, télécharger et partager ce projet à condition de créditer l'auteur original.
-- Vous **n'êtes pas autorisé** à modifier, transformer ou adapter le contenu.
-- Toute utilisation doit mentionner l'auteur : Nadir BOUDJERIDA.
